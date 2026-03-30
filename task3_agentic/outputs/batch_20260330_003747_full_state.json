@@ -1,0 +1,1515 @@
+{
+  "image_paths": [
+    "demo_images/crop_field_001.jpg",
+    "demo_images/crop_field_002.jpg",
+    "demo_images/crop_field_003.jpg",
+    "demo_images/crop_field_004.jpg",
+    "demo_images/traffic_urban_001.jpg",
+    "demo_images/traffic_urban_002.jpg",
+    "demo_images/traffic_urban_003.jpg",
+    "demo_images/foggy_scene_001.jpg",
+    "demo_images/foggy_scene_002.jpg"
+  ],
+  "batch_id": "batch_20260330_003747",
+  "routing_decisions": [
+    {
+      "domain": "crop",
+      "confidence": 0.75,
+      "reasoning": "Keyword-based routing (LLM error: Error calling model 'gemini-2.0-flash-lite' (RESOURCE_EXHAUSTED): 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. ', 'status': 'RESOURCE_EXHAUSTED'}})",
+      "preprocessing_flags": [],
+      "priority": "normal",
+      "image_path": "demo_images/crop_field_001.jpg",
+      "routed_at": "2026-03-30T00:38:21.610331"
+    },
+    {
+      "domain": "crop",
+      "confidence": 0.75,
+      "reasoning": "Keyword-based routing (LLM error: Error calling model 'gemini-2.0-flash-lite' (RESOURCE_EXHAUSTED): 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. ', 'status': 'RESOURCE_EXHAUSTED'}})",
+      "preprocessing_flags": [],
+      "priority": "normal",
+      "image_path": "demo_images/crop_field_002.jpg",
+      "routed_at": "2026-03-30T00:38:56.052586"
+    },
+    {
+      "domain": "crop",
+      "confidence": 0.75,
+      "reasoning": "Keyword-based routing (LLM error: Error calling model 'gemini-2.0-flash-lite' (RESOURCE_EXHAUSTED): 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. ', 'status': 'RESOURCE_EXHAUSTED'}})",
+      "preprocessing_flags": [],
+      "priority": "normal",
+      "image_path": "demo_images/crop_field_003.jpg",
+      "routed_at": "2026-03-30T00:39:29.825118"
+    },
+    {
+      "domain": "crop",
+      "confidence": 0.75,
+      "reasoning": "Keyword-based routing (LLM error: Error calling model 'gemini-2.0-flash-lite' (RESOURCE_EXHAUSTED): 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. ', 'status': 'RESOURCE_EXHAUSTED'}})",
+      "preprocessing_flags": [],
+      "priority": "normal",
+      "image_path": "demo_images/crop_field_004.jpg",
+      "routed_at": "2026-03-30T00:40:05.592710"
+    },
+    {
+      "domain": "traffic",
+      "confidence": 0.75,
+      "reasoning": "Keyword-based routing (LLM error: Error calling model 'gemini-2.0-flash-lite' (RESOURCE_EXHAUSTED): 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. ', 'status': 'RESOURCE_EXHAUSTED'}})",
+      "preprocessing_flags": [],
+      "priority": "normal",
+      "image_path": "demo_images/traffic_urban_001.jpg",
+      "routed_at": "2026-03-30T00:40:40.747668"
+    },
+    {
+      "domain": "traffic",
+      "confidence": 0.75,
+      "reasoning": "Keyword-based routing (LLM error: Error calling model 'gemini-2.0-flash-lite' (RESOURCE_EXHAUSTED): 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. ', 'status': 'RESOURCE_EXHAUSTED'}})",
+      "preprocessing_flags": [],
+      "priority": "normal",
+      "image_path": "demo_images/traffic_urban_002.jpg",
+      "routed_at": "2026-03-30T00:41:14.199999"
+    },
+    {
+      "domain": "traffic",
+      "confidence": 0.75,
+      "reasoning": "Keyword-based routing (LLM error: Error calling model 'gemini-2.0-flash-lite' (RESOURCE_EXHAUSTED): 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. ', 'status': 'RESOURCE_EXHAUSTED'}})",
+      "preprocessing_flags": [],
+      "priority": "normal",
+      "image_path": "demo_images/traffic_urban_003.jpg",
+      "routed_at": "2026-03-30T00:41:47.694127"
+    },
+    {
+      "domain": "traffic",
+      "confidence": 0.75,
+      "reasoning": "Keyword-based routing (LLM error: Error calling model 'gemini-2.0-flash-lite' (RESOURCE_EXHAUSTED): 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. ', 'status': 'RESOURCE_EXHAUSTED'}})",
+      "preprocessing_flags": [],
+      "priority": "normal",
+      "image_path": "demo_images/foggy_scene_001.jpg",
+      "routed_at": "2026-03-30T00:42:22.598549"
+    },
+    {
+      "domain": "crop",
+      "confidence": 0.75,
+      "reasoning": "Keyword-based routing (LLM error: Error calling model 'gemini-2.0-flash-lite' (RESOURCE_EXHAUSTED): 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. ', 'status': 'RESOURCE_EXHAUSTED'}})",
+      "preprocessing_flags": [],
+      "priority": "normal",
+      "image_path": "demo_images/foggy_scene_002.jpg",
+      "routed_at": "2026-03-30T00:42:57.271012"
+    }
+  ],
+  "inference_results": [
+    {
+      "task": "crop_detection",
+      "image_path": "demo_images/crop_field_001.jpg",
+      "timestamp": "2026-03-30T00:42:57.271703",
+      "n_polygons": 2,
+      "polygons": [
+        {
+          "crop_type": "endrow",
+          "confidence": 0.7429,
+          "health_index": 0.7809,
+          "bbox_latlon": {
+            "lon_min": -93.49014687509026,
+            "lat_min": 41.505955492418714,
+            "lon_max": -93.48802476197382,
+            "lat_max": 41.51303729822444
+          },
+          "area_px": 3315
+        },
+        {
+          "crop_type": "waterway",
+          "confidence": 0.6531,
+          "health_index": 0.8471,
+          "bbox_latlon": {
+            "lon_min": -93.49898108033211,
+            "lat_min": 41.503824684424856,
+            "lon_max": -93.48746695271512,
+            "lat_max": 41.51912484639382
+          },
+          "area_px": 3594
+        }
+      ],
+      "mean_confidence": 0.698,
+      "mean_health": 0.814,
+      "model": "segformer-b2",
+      "inference_ms": 252
+    },
+    {
+      "task": "crop_detection",
+      "image_path": "demo_images/crop_field_002.jpg",
+      "timestamp": "2026-03-30T00:42:57.271754",
+      "n_polygons": 3,
+      "polygons": [
+        {
+          "crop_type": "nutrient_deficiency",
+          "confidence": 0.6711,
+          "health_index": 0.5705,
+          "bbox_latlon": {
+            "lon_min": -93.49140027646571,
+            "lat_min": 41.501786604305835,
+            "lon_max": -93.48154587568462,
+            "lat_max": 41.51774292492062
+          },
+          "area_px": 2857
+        },
+        {
+          "crop_type": "weed_cluster",
+          "confidence": 0.3693,
+          "health_index": 0.821,
+          "bbox_latlon": {
+            "lon_min": -93.49789283727335,
+            "lat_min": 41.502758904412865,
+            "lon_max": -93.4884673036367,
+            "lat_max": 41.51921051975702
+          },
+          "area_px": 5612
+        },
+        {
+          "crop_type": "endrow",
+          "confidence": 0.5222,
+          "health_index": 0.4243,
+          "bbox_latlon": {
+            "lon_min": -93.49557504454616,
+            "lat_min": 41.50508866642976,
+            "lon_max": -93.48517964019258,
+            "lat_max": 41.51217239915085
+          },
+          "area_px": 6820
+        }
+      ],
+      "mean_confidence": 0.5209,
+      "mean_health": 0.6053,
+      "model": "segformer-b2",
+      "inference_ms": 233
+    },
+    {
+      "task": "crop_detection",
+      "image_path": "demo_images/crop_field_003.jpg",
+      "timestamp": "2026-03-30T00:42:57.271789",
+      "n_polygons": 5,
+      "polygons": [
+        {
+          "crop_type": "drydown",
+          "confidence": 0.8426,
+          "health_index": 0.5839,
+          "bbox_latlon": {
+            "lon_min": -93.49864741382007,
+            "lat_min": 41.50338253862858,
+            "lon_max": -93.48149173099812,
+            "lat_max": 41.51283775921147
+          },
+          "area_px": 5829
+        },
+        {
+          "crop_type": "water",
+          "confidence": 0.7047,
+          "health_index": 0.4667,
+          "bbox_latlon": {
+            "lon_min": -93.49855686878104,
+            "lat_min": 41.507974031979884,
+            "lon_max": -93.48897188048281,
+            "lat_max": 41.51651902611752
+          },
+          "area_px": 6858
+        },
+        {
+          "crop_type": "weed_cluster",
+          "confidence": 0.7186,
+          "health_index": 0.4045,
+          "bbox_latlon": {
+            "lon_min": -93.49732183233174,
+            "lat_min": 41.506086054502774,
+            "lon_max": -93.48908274337214,
+            "lat_max": 41.519882932499335
+          },
+          "area_px": 7641
+        },
+        {
+          "crop_type": "water",
+          "confidence": 0.8658,
+          "health_index": 0.8066,
+          "bbox_latlon": {
+            "lon_min": -93.49643119578,
+            "lat_min": 41.50430384826806,
+            "lon_max": -93.48770425362467,
+            "lat_max": 41.51089421150157
+          },
+          "area_px": 1546
+        },
+        {
+          "crop_type": "weed_cluster",
+          "confidence": 0.7509,
+          "health_index": 0.7574,
+          "bbox_latlon": {
+            "lon_min": -93.49053016277513,
+            "lat_min": 41.50732577795199,
+            "lon_max": -93.48941117804247,
+            "lat_max": 41.51159908555834
+          },
+          "area_px": 7299
+        }
+      ],
+      "mean_confidence": 0.7765,
+      "mean_health": 0.6038,
+      "model": "segformer-b2",
+      "inference_ms": 298
+    },
+    {
+      "task": "crop_detection",
+      "image_path": "demo_images/crop_field_004.jpg",
+      "timestamp": "2026-03-30T00:42:57.271814",
+      "n_polygons": 2,
+      "polygons": [
+        {
+          "crop_type": "nutrient_deficiency",
+          "confidence": 0.6132,
+          "health_index": 0.6417,
+          "bbox_latlon": {
+            "lon_min": -93.49882606149868,
+            "lat_min": 41.50873359659979,
+            "lon_max": -93.48512365722976,
+            "lat_max": 41.51527708782242
+          },
+          "area_px": 2844
+        },
+        {
+          "crop_type": "waterway",
+          "confidence": 0.6503,
+          "health_index": 0.7133,
+          "bbox_latlon": {
+            "lon_min": -93.49434437950234,
+            "lat_min": 41.50669169900573,
+            "lon_max": -93.48827664194235,
+            "lat_max": 41.51536648551285
+          },
+          "area_px": 4958
+        }
+      ],
+      "mean_confidence": 0.6318,
+      "mean_health": 0.6775,
+      "model": "segformer-b2",
+      "inference_ms": 401
+    },
+    {
+      "task": "traffic_detection",
+      "image_path": "demo_images/traffic_urban_001.jpg",
+      "timestamp": "2026-03-30T00:42:57.271865",
+      "n_vehicles": 5,
+      "detections": [
+        {
+          "class": "bus",
+          "confidence": 0.4926,
+          "bbox": [
+            250,
+            136,
+            20,
+            28
+          ],
+          "track_id": 1
+        },
+        {
+          "class": "car",
+          "confidence": 0.4817,
+          "bbox": [
+            136,
+            179,
+            42,
+            53
+          ],
+          "track_id": 2
+        },
+        {
+          "class": "car",
+          "confidence": 0.6462,
+          "bbox": [
+            650,
+            385,
+            35,
+            25
+          ],
+          "track_id": 3
+        },
+        {
+          "class": "car",
+          "confidence": 0.4348,
+          "bbox": [
+            429,
+            182,
+            55,
+            49
+          ],
+          "track_id": 4
+        },
+        {
+          "class": "bus",
+          "confidence": 0.6062,
+          "bbox": [
+            365,
+            564,
+            21,
+            19
+          ],
+          "track_id": 5
+        }
+      ],
+      "class_counts": {
+        "car": 3,
+        "truck": 0,
+        "bus": 2,
+        "motorcycle": 0,
+        "bicycle": 0
+      },
+      "mean_confidence": 0.5323,
+      "map50": 0.3976,
+      "model": "yolov8m",
+      "inference_ms": 102
+    },
+    {
+      "task": "traffic_detection",
+      "image_path": "demo_images/traffic_urban_002.jpg",
+      "timestamp": "2026-03-30T00:42:57.271944",
+      "n_vehicles": 21,
+      "detections": [
+        {
+          "class": "truck",
+          "confidence": 0.9218,
+          "bbox": [
+            292,
+            250,
+            11,
+            32
+          ],
+          "track_id": 1
+        },
+        {
+          "class": "motorcycle",
+          "confidence": 0.7273,
+          "bbox": [
+            661,
+            239,
+            72,
+            54
+          ],
+          "track_id": 2
+        },
+        {
+          "class": "truck",
+          "confidence": 0.8511,
+          "bbox": [
+            399,
+            422,
+            56,
+            32
+          ],
+          "track_id": 3
+        },
+        {
+          "class": "bicycle",
+          "confidence": 0.7548,
+          "bbox": [
+            28,
+            441,
+            45,
+            47
+          ],
+          "track_id": 4
+        },
+        {
+          "class": "bus",
+          "confidence": 0.7778,
+          "bbox": [
+            601,
+            22,
+            17,
+            21
+          ],
+          "track_id": 5
+        },
+        {
+          "class": "bus",
+          "confidence": 0.7128,
+          "bbox": [
+            400,
+            292,
+            74,
+            51
+          ],
+          "track_id": 6
+        },
+        {
+          "class": "bicycle",
+          "confidence": 0.9388,
+          "bbox": [
+            252,
+            406,
+            76,
+            44
+          ],
+          "track_id": 7
+        },
+        {
+          "class": "bus",
+          "confidence": 0.8188,
+          "bbox": [
+            227,
+            281,
+            75,
+            19
+          ],
+          "track_id": 8
+        },
+        {
+          "class": "motorcycle",
+          "confidence": 0.7673,
+          "bbox": [
+            221,
+            117,
+            65,
+            35
+          ],
+          "track_id": 9
+        },
+        {
+          "class": "bus",
+          "confidence": 0.9074,
+          "bbox": [
+            249,
+            10,
+            33,
+            29
+          ],
+          "track_id": 10
+        },
+        {
+          "class": "truck",
+          "confidence": 0.6806,
+          "bbox": [
+            302,
+            105,
+            35,
+            51
+          ],
+          "track_id": 11
+        },
+        {
+          "class": "bus",
+          "confidence": 0.8269,
+          "bbox": [
+            29,
+            368,
+            57,
+            22
+          ],
+          "track_id": 12
+        },
+        {
+          "class": "car",
+          "confidence": 0.9868,
+          "bbox": [
+            286,
+            434,
+            45,
+            58
+          ],
+          "track_id": 13
+        },
+        {
+          "class": "car",
+          "confidence": 0.843,
+          "bbox": [
+            778,
+            425,
+            63,
+            29
+          ],
+          "track_id": 14
+        },
+        {
+          "class": "car",
+          "confidence": 0.9071,
+          "bbox": [
+            662,
+            481,
+            38,
+            32
+          ],
+          "track_id": 15
+        },
+        {
+          "class": "motorcycle",
+          "confidence": 0.8817,
+          "bbox": [
+            798,
+            393,
+            80,
+            56
+          ],
+          "track_id": 16
+        },
+        {
+          "class": "bus",
+          "confidence": 0.7626,
+          "bbox": [
+            247,
+            533,
+            57,
+            57
+          ],
+          "track_id": 17
+        },
+        {
+          "class": "truck",
+          "confidence": 0.6929,
+          "bbox": [
+            662,
+            470,
+            32,
+            29
+          ],
+          "track_id": 18
+        },
+        {
+          "class": "motorcycle",
+          "confidence": 0.8174,
+          "bbox": [
+            612,
+            528,
+            77,
+            52
+          ],
+          "track_id": 19
+        },
+        {
+          "class": "car",
+          "confidence": 0.7225,
+          "bbox": [
+            218,
+            120,
+            66,
+            30
+          ],
+          "track_id": 20
+        },
+        {
+          "class": "motorcycle",
+          "confidence": 0.9313,
+          "bbox": [
+            485,
+            515,
+            22,
+            42
+          ],
+          "track_id": 21
+        }
+      ],
+      "class_counts": {
+        "car": 4,
+        "truck": 4,
+        "bus": 6,
+        "motorcycle": 5,
+        "bicycle": 2
+      },
+      "mean_confidence": 0.8205,
+      "map50": 0.4213,
+      "model": "yolov8m",
+      "inference_ms": 157
+    },
+    {
+      "task": "traffic_detection",
+      "image_path": "demo_images/traffic_urban_003.jpg",
+      "timestamp": "2026-03-30T00:42:57.271996",
+      "n_vehicles": 8,
+      "detections": [
+        {
+          "class": "car",
+          "confidence": 0.773,
+          "bbox": [
+            418,
+            136,
+            70,
+            44
+          ],
+          "track_id": 1
+        },
+        {
+          "class": "bus",
+          "confidence": 0.8075,
+          "bbox": [
+            668,
+            562,
+            35,
+            11
+          ],
+          "track_id": 2
+        },
+        {
+          "class": "bicycle",
+          "confidence": 0.6607,
+          "bbox": [
+            732,
+            379,
+            63,
+            41
+          ],
+          "track_id": 3
+        },
+        {
+          "class": "bicycle",
+          "confidence": 0.9201,
+          "bbox": [
+            6,
+            198,
+            22,
+            17
+          ],
+          "track_id": 4
+        },
+        {
+          "class": "bus",
+          "confidence": 0.6962,
+          "bbox": [
+            255,
+            394,
+            52,
+            48
+          ],
+          "track_id": 5
+        },
+        {
+          "class": "bicycle",
+          "confidence": 0.7415,
+          "bbox": [
+            739,
+            378,
+            26,
+            52
+          ],
+          "track_id": 6
+        },
+        {
+          "class": "car",
+          "confidence": 0.6955,
+          "bbox": [
+            175,
+            315,
+            30,
+            54
+          ],
+          "track_id": 7
+        },
+        {
+          "class": "bicycle",
+          "confidence": 0.5651,
+          "bbox": [
+            421,
+            483,
+            32,
+            43
+          ],
+          "track_id": 8
+        }
+      ],
+      "class_counts": {
+        "car": 2,
+        "truck": 0,
+        "bus": 2,
+        "motorcycle": 0,
+        "bicycle": 4
+      },
+      "mean_confidence": 0.7325,
+      "map50": 0.5313,
+      "model": "yolov8m",
+      "inference_ms": 180
+    },
+    {
+      "task": "traffic_detection",
+      "image_path": "demo_images/foggy_scene_001.jpg",
+      "timestamp": "2026-03-30T00:42:57.272026",
+      "n_vehicles": 4,
+      "detections": [
+        {
+          "class": "car",
+          "confidence": 0.5174,
+          "bbox": [
+            235,
+            148,
+            36,
+            55
+          ],
+          "track_id": 1
+        },
+        {
+          "class": "bus",
+          "confidence": 0.4562,
+          "bbox": [
+            437,
+            32,
+            50,
+            52
+          ],
+          "track_id": 2
+        },
+        {
+          "class": "bus",
+          "confidence": 0.6586,
+          "bbox": [
+            202,
+            51,
+            57,
+            50
+          ],
+          "track_id": 3
+        },
+        {
+          "class": "truck",
+          "confidence": 0.5887,
+          "bbox": [
+            793,
+            536,
+            78,
+            35
+          ],
+          "track_id": 4
+        }
+      ],
+      "class_counts": {
+        "car": 1,
+        "truck": 1,
+        "bus": 2,
+        "motorcycle": 0,
+        "bicycle": 0
+      },
+      "mean_confidence": 0.5552,
+      "map50": 0.5373,
+      "model": "yolov8m",
+      "inference_ms": 127
+    },
+    {
+      "task": "crop_detection",
+      "image_path": "demo_images/foggy_scene_002.jpg",
+      "timestamp": "2026-03-30T00:42:57.272074",
+      "n_polygons": 8,
+      "polygons": [
+        {
+          "crop_type": "waterway",
+          "confidence": 0.5758,
+          "health_index": 0.7635,
+          "bbox_latlon": {
+            "lon_min": -93.49720018510278,
+            "lat_min": 41.50751318375093,
+            "lon_max": -93.48962179268794,
+            "lat_max": 41.51196613539141
+          },
+          "area_px": 4997
+        },
+        {
+          "crop_type": "planter_skip",
+          "confidence": 0.6325,
+          "health_index": 0.8226,
+          "bbox_latlon": {
+            "lon_min": -93.49521866207064,
+            "lat_min": 41.507108707446385,
+            "lon_max": -93.48858689180064,
+            "lat_max": 41.51411222258991
+          },
+          "area_px": 6270
+        },
+        {
+          "crop_type": "waterway",
+          "confidence": 0.672,
+          "health_index": 0.4943,
+          "bbox_latlon": {
+            "lon_min": -93.49030074730103,
+            "lat_min": 41.50674659338414,
+            "lon_max": -93.48787098235128,
+            "lat_max": 41.51722426968794
+          },
+          "area_px": 4657
+        },
+        {
+          "crop_type": "double_plant",
+          "confidence": 0.5252,
+          "health_index": 0.7773,
+          "bbox_latlon": {
+            "lon_min": -93.49894989359565,
+            "lat_min": 41.506106788902514,
+            "lon_max": -93.4869012334818,
+            "lat_max": 41.510325717818745
+          },
+          "area_px": 6001
+        },
+        {
+          "crop_type": "planter_skip",
+          "confidence": 0.5239,
+          "health_index": 0.6746,
+          "bbox_latlon": {
+            "lon_min": -93.49336669758029,
+            "lat_min": 41.50434955631463,
+            "lon_max": -93.48181654683277,
+            "lat_max": 41.51108623830494
+          },
+          "area_px": 1699
+        },
+        {
+          "crop_type": "nutrient_deficiency",
+          "confidence": 0.5167,
+          "health_index": 0.7941,
+          "bbox_latlon": {
+            "lon_min": -93.49276151431344,
+            "lat_min": 41.507411888920075,
+            "lon_max": -93.48075740300506,
+            "lat_max": 41.51290008816732
+          },
+          "area_px": 7361
+        },
+        {
+          "crop_type": "double_plant",
+          "confidence": 0.5662,
+          "health_index": 0.7471,
+          "bbox_latlon": {
+            "lon_min": -93.49558198428241,
+            "lat_min": 41.504721357466096,
+            "lon_max": -93.48559668160527,
+            "lat_max": 41.51271022479174
+          },
+          "area_px": 1565
+        },
+        {
+          "crop_type": "endrow",
+          "confidence": 0.5982,
+          "health_index": 0.3797,
+          "bbox_latlon": {
+            "lon_min": -93.49425539455463,
+            "lat_min": 41.50463185800701,
+            "lon_max": -93.48809191172633,
+            "lat_max": 41.516826578780275
+          },
+          "area_px": 2333
+        }
+      ],
+      "mean_confidence": 0.5763,
+      "mean_health": 0.6816,
+      "model": "segformer-b2",
+      "inference_ms": 301
+    }
+  ],
+  "qc_results": [
+    {
+      "decision": "reinfer",
+      "quality_score": 0.698,
+      "failure_modes": [],
+      "reasoning": "Rule-based QC (LLM error: Error calling model 'gemini-2.0-flash-lite' (RESOURCE_EXHAUSTED): 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. ', 'status': 'RESOURCE_EXHAUSTED'}})",
+      "augmentation_recommendation": null,
+      "mean_confidence": 0.698,
+      "validated_at": "2026-03-30T00:43:31.984976",
+      "image_path": "demo_images/crop_field_001.jpg"
+    },
+    {
+      "decision": "reinfer",
+      "quality_score": 0.5209,
+      "failure_modes": [],
+      "reasoning": "Rule-based QC (LLM error: Error calling model 'gemini-2.0-flash-lite' (RESOURCE_EXHAUSTED): 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. ', 'status': 'RESOURCE_EXHAUSTED'}})",
+      "augmentation_recommendation": null,
+      "mean_confidence": 0.5209,
+      "validated_at": "2026-03-30T00:44:40.221186",
+      "image_path": "demo_images/crop_field_002.jpg"
+    },
+    {
+      "decision": "accept",
+      "quality_score": 0.7765,
+      "failure_modes": [],
+      "reasoning": "Rule-based QC (LLM error: Error calling model 'gemini-2.0-flash-lite' (RESOURCE_EXHAUSTED): 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. ', 'status': 'RESOURCE_EXHAUSTED'}})",
+      "augmentation_recommendation": null,
+      "mean_confidence": 0.7765,
+      "validated_at": "2026-03-30T00:45:49.133437",
+      "image_path": "demo_images/crop_field_003.jpg"
+    },
+    {
+      "decision": "reinfer",
+      "quality_score": 0.6318,
+      "failure_modes": [],
+      "reasoning": "Rule-based QC (LLM error: Error calling model 'gemini-2.0-flash-lite' (RESOURCE_EXHAUSTED): 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. ', 'status': 'RESOURCE_EXHAUSTED'}})",
+      "augmentation_recommendation": null,
+      "mean_confidence": 0.6318,
+      "validated_at": "2026-03-30T00:46:22.619329",
+      "image_path": "demo_images/crop_field_004.jpg"
+    },
+    {
+      "decision": "reinfer",
+      "quality_score": 0.5323,
+      "failure_modes": [],
+      "reasoning": "Rule-based QC (LLM error: Error calling model 'gemini-2.0-flash-lite' (RESOURCE_EXHAUSTED): 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. ', 'status': 'RESOURCE_EXHAUSTED'}})",
+      "augmentation_recommendation": null,
+      "mean_confidence": 0.5323,
+      "validated_at": "2026-03-30T00:47:33.273265",
+      "image_path": "demo_images/traffic_urban_001.jpg"
+    },
+    {
+      "decision": "accept",
+      "quality_score": 0.8205,
+      "failure_modes": [],
+      "reasoning": "Rule-based QC (LLM error: Error calling model 'gemini-2.0-flash-lite' (RESOURCE_EXHAUSTED): 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. ', 'status': 'RESOURCE_EXHAUSTED'}})",
+      "augmentation_recommendation": null,
+      "mean_confidence": 0.8205,
+      "validated_at": "2026-03-30T00:48:43.729001",
+      "image_path": "demo_images/traffic_urban_002.jpg"
+    },
+    {
+      "decision": "reinfer",
+      "quality_score": 0.7325,
+      "failure_modes": [],
+      "reasoning": "Rule-based QC (LLM error: Error calling model 'gemini-2.0-flash-lite' (RESOURCE_EXHAUSTED): 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. ', 'status': 'RESOURCE_EXHAUSTED'}})",
+      "augmentation_recommendation": null,
+      "mean_confidence": 0.7325,
+      "validated_at": "2026-03-30T00:49:19.768436",
+      "image_path": "demo_images/traffic_urban_003.jpg"
+    },
+    {
+      "decision": "reinfer",
+      "quality_score": 0.5552,
+      "failure_modes": [],
+      "reasoning": "Rule-based QC (LLM error: Error calling model 'gemini-2.0-flash-lite' (RESOURCE_EXHAUSTED): 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. ', 'status': 'RESOURCE_EXHAUSTED'}})",
+      "augmentation_recommendation": null,
+      "mean_confidence": 0.5552,
+      "validated_at": "2026-03-30T00:50:28.653894",
+      "image_path": "demo_images/foggy_scene_001.jpg"
+    },
+    {
+      "decision": "reinfer",
+      "quality_score": 0.5763,
+      "failure_modes": [],
+      "reasoning": "Rule-based QC (LLM error: Error calling model 'gemini-2.0-flash-lite' (RESOURCE_EXHAUSTED): 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. ', 'status': 'RESOURCE_EXHAUSTED'}})",
+      "augmentation_recommendation": null,
+      "mean_confidence": 0.5763,
+      "validated_at": "2026-03-30T00:51:39.029076",
+      "image_path": "demo_images/foggy_scene_002.jpg"
+    }
+  ],
+  "flagged_images": [
+    "demo_images/crop_field_001.jpg",
+    "demo_images/crop_field_002.jpg",
+    "demo_images/crop_field_004.jpg",
+    "demo_images/traffic_urban_001.jpg",
+    "demo_images/traffic_urban_003.jpg",
+    "demo_images/foggy_scene_001.jpg",
+    "demo_images/foggy_scene_002.jpg"
+  ],
+  "reprocessed": [
+    {
+      "task": "crop_detection",
+      "image_path": "demo_images/crop_field_001.jpg",
+      "timestamp": "2026-03-30T00:43:32.085424",
+      "n_polygons": 2,
+      "polygons": [
+        {
+          "crop_type": "endrow",
+          "confidence": 0.7429,
+          "health_index": 0.7809,
+          "bbox_latlon": {
+            "lon_min": -93.49014687509026,
+            "lat_min": 41.505955492418714,
+            "lon_max": -93.48802476197382,
+            "lat_max": 41.51303729822444
+          },
+          "area_px": 3315
+        },
+        {
+          "crop_type": "waterway",
+          "confidence": 0.6531,
+          "health_index": 0.8471,
+          "bbox_latlon": {
+            "lon_min": -93.49898108033211,
+            "lat_min": 41.503824684424856,
+            "lon_max": -93.48746695271512,
+            "lat_max": 41.51912484639382
+          },
+          "area_px": 3594
+        }
+      ],
+      "mean_confidence": 0.698,
+      "mean_health": 0.814,
+      "model": "segformer-b2",
+      "inference_ms": 252,
+      "reinference": true,
+      "note": "Re-inference with test-time augmentation enabled"
+    },
+    {
+      "task": "crop_detection",
+      "image_path": "demo_images/crop_field_002.jpg",
+      "timestamp": "2026-03-30T00:44:40.321654",
+      "n_polygons": 3,
+      "polygons": [
+        {
+          "crop_type": "nutrient_deficiency",
+          "confidence": 0.6711,
+          "health_index": 0.5705,
+          "bbox_latlon": {
+            "lon_min": -93.49140027646571,
+            "lat_min": 41.501786604305835,
+            "lon_max": -93.48154587568462,
+            "lat_max": 41.51774292492062
+          },
+          "area_px": 2857
+        },
+        {
+          "crop_type": "weed_cluster",
+          "confidence": 0.3693,
+          "health_index": 0.821,
+          "bbox_latlon": {
+            "lon_min": -93.49789283727335,
+            "lat_min": 41.502758904412865,
+            "lon_max": -93.4884673036367,
+            "lat_max": 41.51921051975702
+          },
+          "area_px": 5612
+        },
+        {
+          "crop_type": "endrow",
+          "confidence": 0.5222,
+          "health_index": 0.4243,
+          "bbox_latlon": {
+            "lon_min": -93.49557504454616,
+            "lat_min": 41.50508866642976,
+            "lon_max": -93.48517964019258,
+            "lat_max": 41.51217239915085
+          },
+          "area_px": 6820
+        }
+      ],
+      "mean_confidence": 0.5209,
+      "mean_health": 0.6053,
+      "model": "segformer-b2",
+      "inference_ms": 233,
+      "reinference": true,
+      "note": "Re-inference with test-time augmentation enabled"
+    },
+    {
+      "task": "crop_detection",
+      "image_path": "demo_images/crop_field_004.jpg",
+      "timestamp": "2026-03-30T00:46:22.719670",
+      "n_polygons": 2,
+      "polygons": [
+        {
+          "crop_type": "nutrient_deficiency",
+          "confidence": 0.6132,
+          "health_index": 0.6417,
+          "bbox_latlon": {
+            "lon_min": -93.49882606149868,
+            "lat_min": 41.50873359659979,
+            "lon_max": -93.48512365722976,
+            "lat_max": 41.51527708782242
+          },
+          "area_px": 2844
+        },
+        {
+          "crop_type": "waterway",
+          "confidence": 0.6503,
+          "health_index": 0.7133,
+          "bbox_latlon": {
+            "lon_min": -93.49434437950234,
+            "lat_min": 41.50669169900573,
+            "lon_max": -93.48827664194235,
+            "lat_max": 41.51536648551285
+          },
+          "area_px": 4958
+        }
+      ],
+      "mean_confidence": 0.6318,
+      "mean_health": 0.6775,
+      "model": "segformer-b2",
+      "inference_ms": 401,
+      "reinference": true,
+      "note": "Re-inference with test-time augmentation enabled"
+    },
+    {
+      "task": "traffic_detection",
+      "image_path": "demo_images/traffic_urban_001.jpg",
+      "timestamp": "2026-03-30T00:47:33.373858",
+      "n_vehicles": 5,
+      "detections": [
+        {
+          "class": "bus",
+          "confidence": 0.4926,
+          "bbox": [
+            250,
+            136,
+            20,
+            28
+          ],
+          "track_id": 1
+        },
+        {
+          "class": "car",
+          "confidence": 0.4817,
+          "bbox": [
+            136,
+            179,
+            42,
+            53
+          ],
+          "track_id": 2
+        },
+        {
+          "class": "car",
+          "confidence": 0.6462,
+          "bbox": [
+            650,
+            385,
+            35,
+            25
+          ],
+          "track_id": 3
+        },
+        {
+          "class": "car",
+          "confidence": 0.4348,
+          "bbox": [
+            429,
+            182,
+            55,
+            49
+          ],
+          "track_id": 4
+        },
+        {
+          "class": "bus",
+          "confidence": 0.6062,
+          "bbox": [
+            365,
+            564,
+            21,
+            19
+          ],
+          "track_id": 5
+        }
+      ],
+      "class_counts": {
+        "car": 3,
+        "truck": 0,
+        "bus": 2,
+        "motorcycle": 0,
+        "bicycle": 0
+      },
+      "mean_confidence": 0.5323,
+      "map50": 0.3976,
+      "model": "yolov8m",
+      "inference_ms": 102,
+      "reinference": true,
+      "note": "Re-inference with lower confidence threshold"
+    },
+    {
+      "task": "traffic_detection",
+      "image_path": "demo_images/traffic_urban_003.jpg",
+      "timestamp": "2026-03-30T00:49:19.869015",
+      "n_vehicles": 8,
+      "detections": [
+        {
+          "class": "car",
+          "confidence": 0.773,
+          "bbox": [
+            418,
+            136,
+            70,
+            44
+          ],
+          "track_id": 1
+        },
+        {
+          "class": "bus",
+          "confidence": 0.8075,
+          "bbox": [
+            668,
+            562,
+            35,
+            11
+          ],
+          "track_id": 2
+        },
+        {
+          "class": "bicycle",
+          "confidence": 0.6607,
+          "bbox": [
+            732,
+            379,
+            63,
+            41
+          ],
+          "track_id": 3
+        },
+        {
+          "class": "bicycle",
+          "confidence": 0.9201,
+          "bbox": [
+            6,
+            198,
+            22,
+            17
+          ],
+          "track_id": 4
+        },
+        {
+          "class": "bus",
+          "confidence": 0.6962,
+          "bbox": [
+            255,
+            394,
+            52,
+            48
+          ],
+          "track_id": 5
+        },
+        {
+          "class": "bicycle",
+          "confidence": 0.7415,
+          "bbox": [
+            739,
+            378,
+            26,
+            52
+          ],
+          "track_id": 6
+        },
+        {
+          "class": "car",
+          "confidence": 0.6955,
+          "bbox": [
+            175,
+            315,
+            30,
+            54
+          ],
+          "track_id": 7
+        },
+        {
+          "class": "bicycle",
+          "confidence": 0.5651,
+          "bbox": [
+            421,
+            483,
+            32,
+            43
+          ],
+          "track_id": 8
+        }
+      ],
+      "class_counts": {
+        "car": 2,
+        "truck": 0,
+        "bus": 2,
+        "motorcycle": 0,
+        "bicycle": 4
+      },
+      "mean_confidence": 0.7325,
+      "map50": 0.5313,
+      "model": "yolov8m",
+      "inference_ms": 180,
+      "reinference": true,
+      "note": "Re-inference with lower confidence threshold"
+    },
+    {
+      "task": "traffic_detection",
+      "image_path": "demo_images/foggy_scene_001.jpg",
+      "timestamp": "2026-03-30T00:50:28.754371",
+      "n_vehicles": 4,
+      "detections": [
+        {
+          "class": "car",
+          "confidence": 0.5174,
+          "bbox": [
+            235,
+            148,
+            36,
+            55
+          ],
+          "track_id": 1
+        },
+        {
+          "class": "bus",
+          "confidence": 0.4562,
+          "bbox": [
+            437,
+            32,
+            50,
+            52
+          ],
+          "track_id": 2
+        },
+        {
+          "class": "bus",
+          "confidence": 0.6586,
+          "bbox": [
+            202,
+            51,
+            57,
+            50
+          ],
+          "track_id": 3
+        },
+        {
+          "class": "truck",
+          "confidence": 0.5887,
+          "bbox": [
+            793,
+            536,
+            78,
+            35
+          ],
+          "track_id": 4
+        }
+      ],
+      "class_counts": {
+        "car": 1,
+        "truck": 1,
+        "bus": 2,
+        "motorcycle": 0,
+        "bicycle": 0
+      },
+      "mean_confidence": 0.5552,
+      "map50": 0.5373,
+      "model": "yolov8m",
+      "inference_ms": 127,
+      "reinference": true,
+      "note": "Re-inference with lower confidence threshold"
+    },
+    {
+      "task": "crop_detection",
+      "image_path": "demo_images/foggy_scene_002.jpg",
+      "timestamp": "2026-03-30T00:51:39.129453",
+      "n_polygons": 8,
+      "polygons": [
+        {
+          "crop_type": "waterway",
+          "confidence": 0.5758,
+          "health_index": 0.7635,
+          "bbox_latlon": {
+            "lon_min": -93.49720018510278,
+            "lat_min": 41.50751318375093,
+            "lon_max": -93.48962179268794,
+            "lat_max": 41.51196613539141
+          },
+          "area_px": 4997
+        },
+        {
+          "crop_type": "planter_skip",
+          "confidence": 0.6325,
+          "health_index": 0.8226,
+          "bbox_latlon": {
+            "lon_min": -93.49521866207064,
+            "lat_min": 41.507108707446385,
+            "lon_max": -93.48858689180064,
+            "lat_max": 41.51411222258991
+          },
+          "area_px": 6270
+        },
+        {
+          "crop_type": "waterway",
+          "confidence": 0.672,
+          "health_index": 0.4943,
+          "bbox_latlon": {
+            "lon_min": -93.49030074730103,
+            "lat_min": 41.50674659338414,
+            "lon_max": -93.48787098235128,
+            "lat_max": 41.51722426968794
+          },
+          "area_px": 4657
+        },
+        {
+          "crop_type": "double_plant",
+          "confidence": 0.5252,
+          "health_index": 0.7773,
+          "bbox_latlon": {
+            "lon_min": -93.49894989359565,
+            "lat_min": 41.506106788902514,
+            "lon_max": -93.4869012334818,
+            "lat_max": 41.510325717818745
+          },
+          "area_px": 6001
+        },
+        {
+          "crop_type": "planter_skip",
+          "confidence": 0.5239,
+          "health_index": 0.6746,
+          "bbox_latlon": {
+            "lon_min": -93.49336669758029,
+            "lat_min": 41.50434955631463,
+            "lon_max": -93.48181654683277,
+            "lat_max": 41.51108623830494
+          },
+          "area_px": 1699
+        },
+        {
+          "crop_type": "nutrient_deficiency",
+          "confidence": 0.5167,
+          "health_index": 0.7941,
+          "bbox_latlon": {
+            "lon_min": -93.49276151431344,
+            "lat_min": 41.507411888920075,
+            "lon_max": -93.48075740300506,
+            "lat_max": 41.51290008816732
+          },
+          "area_px": 7361
+        },
+        {
+          "crop_type": "double_plant",
+          "confidence": 0.5662,
+          "health_index": 0.7471,
+          "bbox_latlon": {
+            "lon_min": -93.49558198428241,
+            "lat_min": 41.504721357466096,
+            "lon_max": -93.48559668160527,
+            "lat_max": 41.51271022479174
+          },
+          "area_px": 1565
+        },
+        {
+          "crop_type": "endrow",
+          "confidence": 0.5982,
+          "health_index": 0.3797,
+          "bbox_latlon": {
+            "lon_min": -93.49425539455463,
+            "lat_min": 41.50463185800701,
+            "lon_max": -93.48809191172633,
+            "lat_max": 41.516826578780275
+          },
+          "area_px": 2333
+        }
+      ],
+      "mean_confidence": 0.5763,
+      "mean_health": 0.6816,
+      "model": "segformer-b2",
+      "inference_ms": 301,
+      "reinference": true,
+      "note": "Re-inference with test-time augmentation enabled"
+    }
+  ],
+  "drift_status": {
+    "drift_detected": false,
+    "drift_score": 0.0487,
+    "retrain_flag": false,
+    "reason": "metrics within acceptable range"
+  },
+  "batch_summary": {
+    "batch_id": "batch_20260330_003747",
+    "total_processed": 9,
+    "crop_images": 5,
+    "traffic_images": 4,
+    "mean_confidence": 0.6493,
+    "flagged": 7,
+    "reprocessed": 7,
+    "logged_at": "2026-03-30T00:52:13.208476"
+  },
+  "report": "BATCH REPORT \u2014 2026-03-30 00:52\n\nSummary:\nProcessed 9 images\n(5 crop, 4 traffic).\nMean confidence: 0.6493.\n7 images flagged by QC (7 re-inferred, 0 escalated).\n\nAnomalies:\nDrift detected: False.\nDrift score: 0.0487\n\n[Note: LLM summary unavailable (Error calling model 'gemini-2.0-flash-lite' (RESOURCE_EXHAUSTED): 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. ', 'status': 'RESOURCE_EXHAUSTED'}}). Rule-based report generated.]",
+  "anomaly_alert": "No anomalies detected in this batch.",
+  "logs": [
+    "[2026-03-30T00:37:47.714211] Ingesting batch batch_20260330_003747: 9 images",
+    "[2026-03-30T00:42:57.271043] Routing complete: 5 crop, 4 traffic",
+    "[2026-03-30T00:42:57.272086] Inference complete: 9 results",
+    "[QC] Re-inference triggered: demo_images/crop_field_001.jpg \u2014 Rule-based QC (LLM error: Error calling model 'gemini-2.0-flash-lite' (RESOURCE_EXHAUSTED): 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. ', 'status': 'RESOURCE_EXHAUSTED'}})",
+    "[QC] Re-inference triggered: demo_images/crop_field_002.jpg \u2014 Rule-based QC (LLM error: Error calling model 'gemini-2.0-flash-lite' (RESOURCE_EXHAUSTED): 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. ', 'status': 'RESOURCE_EXHAUSTED'}})",
+    "[QC] Re-inference triggered: demo_images/crop_field_004.jpg \u2014 Rule-based QC (LLM error: Error calling model 'gemini-2.0-flash-lite' (RESOURCE_EXHAUSTED): 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. ', 'status': 'RESOURCE_EXHAUSTED'}})",
+    "[QC] Re-inference triggered: demo_images/traffic_urban_001.jpg \u2014 Rule-based QC (LLM error: Error calling model 'gemini-2.0-flash-lite' (RESOURCE_EXHAUSTED): 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. ', 'status': 'RESOURCE_EXHAUSTED'}})",
+    "[QC] Re-inference triggered: demo_images/traffic_urban_003.jpg \u2014 Rule-based QC (LLM error: Error calling model 'gemini-2.0-flash-lite' (RESOURCE_EXHAUSTED): 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. ', 'status': 'RESOURCE_EXHAUSTED'}})",
+    "[QC] Re-inference triggered: demo_images/foggy_scene_001.jpg \u2014 Rule-based QC (LLM error: Error calling model 'gemini-2.0-flash-lite' (RESOURCE_EXHAUSTED): 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. ', 'status': 'RESOURCE_EXHAUSTED'}})",
+    "[QC] Re-inference triggered: demo_images/foggy_scene_002.jpg \u2014 Rule-based QC (LLM error: Error calling model 'gemini-2.0-flash-lite' (RESOURCE_EXHAUSTED): 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. ', 'status': 'RESOURCE_EXHAUSTED'}})",
+    "[2026-03-30T00:52:13.156586] QC complete: 2 accepted, 7 re-inferred, 0 escalated",
+    "[2026-03-30T00:52:13.209195] Drift check: metrics within acceptable range",
+    "[2026-03-30T00:52:48.253161] Report generated \u2192 outputs/batch_20260330_003747_report.txt"
+  ]
+}

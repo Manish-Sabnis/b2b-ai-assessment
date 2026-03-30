@@ -1,0 +1,125 @@
+{
+  "batch_id": "batch_20260330_003747",
+  "logs": [
+    "[2026-03-30T00:37:47.714211] Ingesting batch batch_20260330_003747: 9 images",
+    "[2026-03-30T00:42:57.271043] Routing complete: 5 crop, 4 traffic",
+    "[2026-03-30T00:42:57.272086] Inference complete: 9 results",
+    "[QC] Re-inference triggered: demo_images/crop_field_001.jpg \u2014 Rule-based QC (LLM error: Error calling model 'gemini-2.0-flash-lite' (RESOURCE_EXHAUSTED): 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. ', 'status': 'RESOURCE_EXHAUSTED'}})",
+    "[QC] Re-inference triggered: demo_images/crop_field_002.jpg \u2014 Rule-based QC (LLM error: Error calling model 'gemini-2.0-flash-lite' (RESOURCE_EXHAUSTED): 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. ', 'status': 'RESOURCE_EXHAUSTED'}})",
+    "[QC] Re-inference triggered: demo_images/crop_field_004.jpg \u2014 Rule-based QC (LLM error: Error calling model 'gemini-2.0-flash-lite' (RESOURCE_EXHAUSTED): 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. ', 'status': 'RESOURCE_EXHAUSTED'}})",
+    "[QC] Re-inference triggered: demo_images/traffic_urban_001.jpg \u2014 Rule-based QC (LLM error: Error calling model 'gemini-2.0-flash-lite' (RESOURCE_EXHAUSTED): 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. ', 'status': 'RESOURCE_EXHAUSTED'}})",
+    "[QC] Re-inference triggered: demo_images/traffic_urban_003.jpg \u2014 Rule-based QC (LLM error: Error calling model 'gemini-2.0-flash-lite' (RESOURCE_EXHAUSTED): 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. ', 'status': 'RESOURCE_EXHAUSTED'}})",
+    "[QC] Re-inference triggered: demo_images/foggy_scene_001.jpg \u2014 Rule-based QC (LLM error: Error calling model 'gemini-2.0-flash-lite' (RESOURCE_EXHAUSTED): 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. ', 'status': 'RESOURCE_EXHAUSTED'}})",
+    "[QC] Re-inference triggered: demo_images/foggy_scene_002.jpg \u2014 Rule-based QC (LLM error: Error calling model 'gemini-2.0-flash-lite' (RESOURCE_EXHAUSTED): 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. ', 'status': 'RESOURCE_EXHAUSTED'}})",
+    "[2026-03-30T00:52:13.156586] QC complete: 2 accepted, 7 re-inferred, 0 escalated",
+    "[2026-03-30T00:52:13.209195] Drift check: metrics within acceptable range"
+  ],
+  "batch_summary": {
+    "batch_id": "batch_20260330_003747",
+    "total_processed": 9,
+    "crop_images": 5,
+    "traffic_images": 4,
+    "mean_confidence": 0.6493,
+    "flagged": 7,
+    "reprocessed": 7,
+    "logged_at": "2026-03-30T00:52:13.208476"
+  },
+  "drift_status": {
+    "drift_detected": false,
+    "drift_score": 0.0487,
+    "retrain_flag": false,
+    "reason": "metrics within acceptable range"
+  },
+  "qc_results": [
+    {
+      "decision": "reinfer",
+      "quality_score": 0.698,
+      "failure_modes": [],
+      "reasoning": "Rule-based QC (LLM error: Error calling model 'gemini-2.0-flash-lite' (RESOURCE_EXHAUSTED): 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. ', 'status': 'RESOURCE_EXHAUSTED'}})",
+      "augmentation_recommendation": null,
+      "mean_confidence": 0.698,
+      "validated_at": "2026-03-30T00:43:31.984976",
+      "image_path": "demo_images/crop_field_001.jpg"
+    },
+    {
+      "decision": "reinfer",
+      "quality_score": 0.5209,
+      "failure_modes": [],
+      "reasoning": "Rule-based QC (LLM error: Error calling model 'gemini-2.0-flash-lite' (RESOURCE_EXHAUSTED): 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. ', 'status': 'RESOURCE_EXHAUSTED'}})",
+      "augmentation_recommendation": null,
+      "mean_confidence": 0.5209,
+      "validated_at": "2026-03-30T00:44:40.221186",
+      "image_path": "demo_images/crop_field_002.jpg"
+    },
+    {
+      "decision": "accept",
+      "quality_score": 0.7765,
+      "failure_modes": [],
+      "reasoning": "Rule-based QC (LLM error: Error calling model 'gemini-2.0-flash-lite' (RESOURCE_EXHAUSTED): 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. ', 'status': 'RESOURCE_EXHAUSTED'}})",
+      "augmentation_recommendation": null,
+      "mean_confidence": 0.7765,
+      "validated_at": "2026-03-30T00:45:49.133437",
+      "image_path": "demo_images/crop_field_003.jpg"
+    },
+    {
+      "decision": "reinfer",
+      "quality_score": 0.6318,
+      "failure_modes": [],
+      "reasoning": "Rule-based QC (LLM error: Error calling model 'gemini-2.0-flash-lite' (RESOURCE_EXHAUSTED): 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. ', 'status': 'RESOURCE_EXHAUSTED'}})",
+      "augmentation_recommendation": null,
+      "mean_confidence": 0.6318,
+      "validated_at": "2026-03-30T00:46:22.619329",
+      "image_path": "demo_images/crop_field_004.jpg"
+    },
+    {
+      "decision": "reinfer",
+      "quality_score": 0.5323,
+      "failure_modes": [],
+      "reasoning": "Rule-based QC (LLM error: Error calling model 'gemini-2.0-flash-lite' (RESOURCE_EXHAUSTED): 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. ', 'status': 'RESOURCE_EXHAUSTED'}})",
+      "augmentation_recommendation": null,
+      "mean_confidence": 0.5323,
+      "validated_at": "2026-03-30T00:47:33.273265",
+      "image_path": "demo_images/traffic_urban_001.jpg"
+    },
+    {
+      "decision": "accept",
+      "quality_score": 0.8205,
+      "failure_modes": [],
+      "reasoning": "Rule-based QC (LLM error: Error calling model 'gemini-2.0-flash-lite' (RESOURCE_EXHAUSTED): 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. ', 'status': 'RESOURCE_EXHAUSTED'}})",
+      "augmentation_recommendation": null,
+      "mean_confidence": 0.8205,
+      "validated_at": "2026-03-30T00:48:43.729001",
+      "image_path": "demo_images/traffic_urban_002.jpg"
+    },
+    {
+      "decision": "reinfer",
+      "quality_score": 0.7325,
+      "failure_modes": [],
+      "reasoning": "Rule-based QC (LLM error: Error calling model 'gemini-2.0-flash-lite' (RESOURCE_EXHAUSTED): 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. ', 'status': 'RESOURCE_EXHAUSTED'}})",
+      "augmentation_recommendation": null,
+      "mean_confidence": 0.7325,
+      "validated_at": "2026-03-30T00:49:19.768436",
+      "image_path": "demo_images/traffic_urban_003.jpg"
+    },
+    {
+      "decision": "reinfer",
+      "quality_score": 0.5552,
+      "failure_modes": [],
+      "reasoning": "Rule-based QC (LLM error: Error calling model 'gemini-2.0-flash-lite' (RESOURCE_EXHAUSTED): 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. ', 'status': 'RESOURCE_EXHAUSTED'}})",
+      "augmentation_recommendation": null,
+      "mean_confidence": 0.5552,
+      "validated_at": "2026-03-30T00:50:28.653894",
+      "image_path": "demo_images/foggy_scene_001.jpg"
+    },
+    {
+      "decision": "reinfer",
+      "quality_score": 0.5763,
+      "failure_modes": [],
+      "reasoning": "Rule-based QC (LLM error: Error calling model 'gemini-2.0-flash-lite' (RESOURCE_EXHAUSTED): 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. ', 'status': 'RESOURCE_EXHAUSTED'}})",
+      "augmentation_recommendation": null,
+      "mean_confidence": 0.5763,
+      "validated_at": "2026-03-30T00:51:39.029076",
+      "image_path": "demo_images/foggy_scene_002.jpg"
+    }
+  ]
+}

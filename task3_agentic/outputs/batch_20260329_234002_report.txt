@@ -1,0 +1,16 @@
+BATCH REPORT — batch_20260329_234002
+============================================================
+
+BATCH REPORT — 2026-03-29 23:51
+
+Summary:
+Processed 9 images
+(5 crop, 4 traffic).
+Mean confidence: 0.6762.
+0 images flagged by QC (0 re-inferred, 0 escalated).
+
+Anomalies:
+Drift detected: False.
+Drift score: 0.0756
+
+[Note: LLM summary unavailable (Error calling model 'gemini-2.0-flash-lite' (RESOURCE_EXHAUSTED): 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. ', 'status': 'RESOURCE_EXHAUSTED'}}). Rule-based report generated.]

@@ -1,0 +1,306 @@
+{
+  "batches": [
+    {
+      "batch_id": "historical_batch_001",
+      "total_processed": 10,
+      "crop_images": 5,
+      "traffic_images": 5,
+      "mean_confidence": 0.7171,
+      "flagged": 0,
+      "reprocessed": 0,
+      "logged_at": "2026-03-29T20:09:36.678864"
+    },
+    {
+      "batch_id": "historical_batch_002",
+      "total_processed": 10,
+      "crop_images": 5,
+      "traffic_images": 5,
+      "mean_confidence": 0.6565,
+      "flagged": 1,
+      "reprocessed": 0,
+      "logged_at": "2026-03-29T20:09:36.678974"
+    },
+    {
+      "batch_id": "historical_batch_003",
+      "total_processed": 10,
+      "crop_images": 5,
+      "traffic_images": 5,
+      "mean_confidence": 0.5978,
+      "flagged": 2,
+      "reprocessed": 1,
+      "logged_at": "2026-03-29T20:09:36.679062"
+    },
+    {
+      "batch_id": "historical_batch_004",
+      "total_processed": 10,
+      "crop_images": 5,
+      "traffic_images": 5,
+      "mean_confidence": 0.554,
+      "flagged": 3,
+      "reprocessed": 2,
+      "logged_at": "2026-03-29T20:09:36.679142"
+    },
+    {
+      "batch_id": "historical_batch_005",
+      "total_processed": 10,
+      "crop_images": 5,
+      "traffic_images": 5,
+      "mean_confidence": 0.4774,
+      "flagged": 4,
+      "reprocessed": 3,
+      "logged_at": "2026-03-29T20:09:36.679224"
+    },
+    {
+      "batch_id": "batch_20260329_200936",
+      "total_processed": 9,
+      "crop_images": 5,
+      "traffic_images": 4,
+      "mean_confidence": 0.6957,
+      "flagged": 0,
+      "reprocessed": 0,
+      "logged_at": "2026-03-29T20:09:39.967032"
+    },
+    {
+      "batch_id": "historical_batch_001",
+      "total_processed": 10,
+      "crop_images": 5,
+      "traffic_images": 5,
+      "mean_confidence": 0.7171,
+      "flagged": 0,
+      "reprocessed": 0,
+      "logged_at": "2026-03-29T20:14:14.919483"
+    },
+    {
+      "batch_id": "historical_batch_002",
+      "total_processed": 10,
+      "crop_images": 5,
+      "traffic_images": 5,
+      "mean_confidence": 0.6565,
+      "flagged": 1,
+      "reprocessed": 0,
+      "logged_at": "2026-03-29T20:14:14.919675"
+    },
+    {
+      "batch_id": "historical_batch_003",
+      "total_processed": 10,
+      "crop_images": 5,
+      "traffic_images": 5,
+      "mean_confidence": 0.5978,
+      "flagged": 2,
+      "reprocessed": 1,
+      "logged_at": "2026-03-29T20:14:14.919821"
+    },
+    {
+      "batch_id": "historical_batch_004",
+      "total_processed": 10,
+      "crop_images": 5,
+      "traffic_images": 5,
+      "mean_confidence": 0.554,
+      "flagged": 3,
+      "reprocessed": 2,
+      "logged_at": "2026-03-29T20:14:14.919964"
+    },
+    {
+      "batch_id": "historical_batch_005",
+      "total_processed": 10,
+      "crop_images": 5,
+      "traffic_images": 5,
+      "mean_confidence": 0.4774,
+      "flagged": 4,
+      "reprocessed": 3,
+      "logged_at": "2026-03-29T20:14:14.920100"
+    },
+    {
+      "batch_id": "batch_20260329_201414",
+      "total_processed": 9,
+      "crop_images": 4,
+      "traffic_images": 5,
+      "mean_confidence": 0.6779,
+      "flagged": 7,
+      "reprocessed": 7,
+      "logged_at": "2026-03-29T20:28:39.402064"
+    },
+    {
+      "batch_id": "historical_batch_001",
+      "total_processed": 10,
+      "crop_images": 5,
+      "traffic_images": 5,
+      "mean_confidence": 0.7171,
+      "flagged": 0,
+      "reprocessed": 0,
+      "logged_at": "2026-03-29T23:21:19.246499"
+    },
+    {
+      "batch_id": "historical_batch_002",
+      "total_processed": 10,
+      "crop_images": 5,
+      "traffic_images": 5,
+      "mean_confidence": 0.6565,
+      "flagged": 1,
+      "reprocessed": 0,
+      "logged_at": "2026-03-29T23:21:19.246997"
+    },
+    {
+      "batch_id": "historical_batch_003",
+      "total_processed": 10,
+      "crop_images": 5,
+      "traffic_images": 5,
+      "mean_confidence": 0.5978,
+      "flagged": 2,
+      "reprocessed": 1,
+      "logged_at": "2026-03-29T23:21:19.247768"
+    },
+    {
+      "batch_id": "historical_batch_004",
+      "total_processed": 10,
+      "crop_images": 5,
+      "traffic_images": 5,
+      "mean_confidence": 0.554,
+      "flagged": 3,
+      "reprocessed": 2,
+      "logged_at": "2026-03-29T23:21:19.248503"
+    },
+    {
+      "batch_id": "historical_batch_005",
+      "total_processed": 10,
+      "crop_images": 5,
+      "traffic_images": 5,
+      "mean_confidence": 0.4774,
+      "flagged": 4,
+      "reprocessed": 3,
+      "logged_at": "2026-03-29T23:21:19.249275"
+    },
+    {
+      "batch_id": "batch_20260329_232119",
+      "total_processed": 9,
+      "crop_images": 6,
+      "traffic_images": 3,
+      "mean_confidence": 0.7218,
+      "flagged": 6,
+      "reprocessed": 6,
+      "logged_at": "2026-03-29T23:35:12.112340"
+    },
+    {
+      "batch_id": "historical_batch_001",
+      "total_processed": 10,
+      "crop_images": 5,
+      "traffic_images": 5,
+      "mean_confidence": 0.7171,
+      "flagged": 0,
+      "reprocessed": 0,
+      "logged_at": "2026-03-29T23:40:02.328217"
+    },
+    {
+      "batch_id": "historical_batch_002",
+      "total_processed": 10,
+      "crop_images": 5,
+      "traffic_images": 5,
+      "mean_confidence": 0.6565,
+      "flagged": 1,
+      "reprocessed": 0,
+      "logged_at": "2026-03-29T23:40:02.328842"
+    },
+    {
+      "batch_id": "historical_batch_003",
+      "total_processed": 10,
+      "crop_images": 5,
+      "traffic_images": 5,
+      "mean_confidence": 0.5978,
+      "flagged": 2,
+      "reprocessed": 1,
+      "logged_at": "2026-03-29T23:40:02.329337"
+    },
+    {
+      "batch_id": "historical_batch_004",
+      "total_processed": 10,
+      "crop_images": 5,
+      "traffic_images": 5,
+      "mean_confidence": 0.554,
+      "flagged": 3,
+      "reprocessed": 2,
+      "logged_at": "2026-03-29T23:40:02.329807"
+    },
+    {
+      "batch_id": "historical_batch_005",
+      "total_processed": 10,
+      "crop_images": 5,
+      "traffic_images": 5,
+      "mean_confidence": 0.4774,
+      "flagged": 4,
+      "reprocessed": 3,
+      "logged_at": "2026-03-29T23:40:02.330297"
+    },
+    {
+      "batch_id": "batch_20260329_234002",
+      "total_processed": 9,
+      "crop_images": 5,
+      "traffic_images": 4,
+      "mean_confidence": 0.6762,
+      "flagged": 0,
+      "reprocessed": 0,
+      "logged_at": "2026-03-29T23:50:28.093003"
+    },
+    {
+      "batch_id": "historical_batch_001",
+      "total_processed": 10,
+      "crop_images": 5,
+      "traffic_images": 5,
+      "mean_confidence": 0.7171,
+      "flagged": 0,
+      "reprocessed": 0,
+      "logged_at": "2026-03-30T00:37:47.707103"
+    },
+    {
+      "batch_id": "historical_batch_002",
+      "total_processed": 10,
+      "crop_images": 5,
+      "traffic_images": 5,
+      "mean_confidence": 0.6565,
+      "flagged": 1,
+      "reprocessed": 0,
+      "logged_at": "2026-03-30T00:37:47.707364"
+    },
+    {
+      "batch_id": "historical_batch_003",
+      "total_processed": 10,
+      "crop_images": 5,
+      "traffic_images": 5,
+      "mean_confidence": 0.5978,
+      "flagged": 2,
+      "reprocessed": 1,
+      "logged_at": "2026-03-30T00:37:47.707663"
+    },
+    {
+      "batch_id": "historical_batch_004",
+      "total_processed": 10,
+      "crop_images": 5,
+      "traffic_images": 5,
+      "mean_confidence": 0.554,
+      "flagged": 3,
+      "reprocessed": 2,
+      "logged_at": "2026-03-30T00:37:47.707937"
+    },
+    {
+      "batch_id": "historical_batch_005",
+      "total_processed": 10,
+      "crop_images": 5,
+      "traffic_images": 5,
+      "mean_confidence": 0.4774,
+      "flagged": 4,
+      "reprocessed": 3,
+      "logged_at": "2026-03-30T00:37:47.708159"
+    },
+    {
+      "batch_id": "batch_20260330_003747",
+      "total_processed": 9,
+      "crop_images": 5,
+      "traffic_images": 4,
+      "mean_confidence": 0.6493,
+      "flagged": 7,
+      "reprocessed": 7,
+      "logged_at": "2026-03-30T00:52:13.208476"
+    }
+  ],
+  "drift_events": [],
+  "created": "2026-03-29T20:09:36.678796"
+}
