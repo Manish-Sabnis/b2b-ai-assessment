@@ -128,3 +128,9 @@ python run_agent.py --simulate_drift   # drift detection demo
 
 Claude (Anthropic) was used as a coding assistant for boilerplate generation,
 documentation writing, and debugging suggestions. All code was reviewed and improved before submission.
+
+
+## Model Weights
+
+Task 1 and Task 2 model weights are available here: 
+[Google Drive](https://drive.google.com/file/d/1PqJ-YpNWT9pkyZLzQbpz130AHbrjUun0/view?usp=sharing)

@@ -69,3 +69,9 @@ mIoU of 0.7049 is competitive with published SeggFormer-B2 baselines on DeepGlob
 **Single-date inference:** The model has no temporal context. Multi-temporal image stacking (two dates as 6-channel input) would improve agriculture/rangeland discrimination by capturing phenological signatures.
 
 **GeoJSON polygon complexity:** rasterio's `shapes()` polygonizer produces geometrically valid but sometimes complex polygons with many vertices. A simplification step (Shapely's `simplify()`) would reduce file size for production use.
+
+
+## Model Weights
+
+Task 1 model weights are available here: 
+[Google Drive](https://drive.google.com/file/d/1muLoCRXgtcmBRFHyT3L2ZItPKtmRCdF8/view?usp=drive_link)

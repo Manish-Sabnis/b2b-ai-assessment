@@ -84,3 +84,9 @@ A Gaussian KDE density map was generated from vehicle center points accumulated 
 **Bicycle class:** AP of 0.175 is significantly below other classes. Bicycles are 5-10px at typical VisDrone altitude, often occluded. A dedicated small-object head or higher resolution training would be required for production-grade bicycle detection.
 
 **Synthetic traffic density:** The heatmap reflects detection patterns across 548 unrelated images rather than a single continuous scene. For a true single-scene density map, a video sequence should be used.
+
+
+## Model Weights
+
+Task 2 model weights are available here: 
+[Google Drive](https://drive.google.com/file/d/1PqJ-YpNWT9pkyZLzQbpz130AHbrjUun0/view?usp=drive_link)

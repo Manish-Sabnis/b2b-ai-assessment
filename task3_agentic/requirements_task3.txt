@@ -1,0 +1,16 @@
+# Task 3 - Agentic Framework Requirements
+
+langgraph
+langchain
+langchain-google-genai
+google-generativeai
+langchain-core
+ 
+# Utilities
+python-dotenv
+pydantic
+pandas
+numpy
+matplotlib
+tqdm
+ 
