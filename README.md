@@ -102,8 +102,8 @@ python run_agent.py --simulate_drift   # drift detection demo
 
 | Task | Model | Checkpoint |
 |------|-------|-----------|
-| Task 1 | SegFormer-B2 | Kaggle Models: `manishsabnis/deepglobe-land-cover-best` |
-| Task 2 | YOLOv8m | Google Drive: `visdrone/task2_outputs/visdrone_yolov8m/weights/best.pt` |
+| Task 1 | SegFormer-B2 | Kaggle Models: Model checkpoints provided [below](#model-weights) |
+| Task 2 | YOLOv8m | Google Drive: Model chockpoints provided [below](#model-weights) |
 
 ---
 
