@@ -88,13 +88,14 @@ python run_agent.py --simulate_drift   # drift detection demo
 **Task 1: DeepGlobe:**
 - 803 satellite images at 2448x2448px, 50cm/pixel
 - 6 land cover classes: urban_land, agriculture, rangeland, forest, water, barren_land
-- 80/20 train/val split carved from training set (seed=42) — official val/test lack masks
-- Kaggle dataset: `balraj98/deepglobe-land-cover-classification-dataset`
+- 80/20 train/val split carved from training set (seed=42) because official val/test lack masks
+- Kaggle dataset: [Dataset Link](https://www.kaggle.com/datasets/balraj98/deepglobe-land-cover-classification-dataset)
 
 **Task 2: VisDrone2019-DET:**
 - 6,471 train / 548 val images from UAV platforms across 14 cities
 - 5 vehicle classes: car, truck, bus, motorcycle, bicycle
 - Annotations converted from VisDrone format to YOLO format
+- Kaggle dataset: [Dataset Link](https://www.kaggle.com/datasets/abhimanyubhowmik1/visdrone)
 
 ---
 
